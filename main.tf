@@ -4,3 +4,4 @@ module "ec2" {
   instance_type = "t3.micro"
   name          = "project-a-server-test"
 }
+# Trigger GitHub Actions
